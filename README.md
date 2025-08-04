@@ -83,7 +83,7 @@ cd pasta-do-projeto
 
 Abaixo temos o estado atual da aplicação que renderiza um triangulo com cores interpoladas a partir da passagem de multiplos parâmetros no Vertex Shader e uso de multiplos VBOs para leitura (a partir dos VAOs) e armazenamento das informações nas propriedades do Vertex Shader e Fragment Shader.
 
-![Resultado da Execução](images/ResultadoExecucao.png)
+![Resultado da Execução](images/ResultadoExecucao.PNG)
 
 ## 🔗 Links Úteis
 
